@@ -10,7 +10,6 @@
 ![alt text](image.png)
 
 
-<<<<<<< HEAD
 
 # Commands:
 1. p, pick <commit> = use commit
@@ -42,7 +41,8 @@
        git commit --amend (it will open a new window change commit message from the window)
     2. we can use interactive-rebase commad to change message of any commit.
        git rebase -i HEAD~(type the length of commit from head)||(intead HEAD we can type commit id)
-       
+       1. reword :- this keyword is used to rename a commit 
+       2. squash :- to combain commits into one
      
 
         
