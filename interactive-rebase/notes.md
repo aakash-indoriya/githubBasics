@@ -10,6 +10,7 @@
 ![alt text](image.png)
 
 
+<<<<<<< HEAD
 
 # Commands:
 1. p, pick <commit> = use commit
@@ -48,6 +49,7 @@
 
  
  
+
 
 
 
